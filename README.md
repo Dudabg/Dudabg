@@ -7,7 +7,7 @@ Desenvolvedora em formação e Estagiária de TI focada em **Automação de Proc
 ### 🚀 Sobre mim
 
 - 🎓 Graduanda em **Sistemas de Informação** na Faculdade Anhanguera e Técnica em **Desenvolvimento de Sistemas** pelo Senac.
-- 💻 Atualmente trabalho com **Automação RPA **, construindo rotas de automação e integração entre sistemas.
+- 💻 Atualmente trabalho com **Automação RPA**, construindo rotas de automação e integração entre sistemas.
 - ⚙️ Desenvolvendo projetos autorais com foco em **FastAPI, Streamlit** e orquestração inteligente de processos com **IA (Gemini API)**.
 - 📍 Baseada em **Uberlândia, MG - Brasil**.
 
